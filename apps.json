@@ -1,22 +1,21 @@
 {
-  "apps": [
-    {
-      "id": 1,
-      "title": "WhatsApp GB",
-      "icon": "https://i.ibb.co/abc/icon.png",
-      "screenshots": ["https://i.ibb.co/ss1.jpg"],
-      "description": "Best modded WhatsApp",
-      "category": "Social",
-      "type": "app",
-      "version": "2.25",
-      "size": "58 MB",
-      "download_link": "https://example.com/whatsapp.apk",
-      "featured": true
-    }
-  ],
   "slider_images": [
     "https://i.ibb.co.com/9bYvJ8Q/slider1.jpg",
     "https://i.ibb.co.com/5kxR3vP/slider2.jpg",
     "https://i.ibb.co.com/8dL2mN3/slider3.jpg"
+  ],
+  "apps": [
+    {
+      "id": 1,
+      "title": "WhatsApp GB",
+      "icon": "https://i.ibb.co.com/0jG3v4K/whatsapp.png",
+      "screenshots": ["https://i.ibb.co.com/5Y3nXvP/ss1.jpg"],
+      "description": "Latest modded WhatsApp",
+      "category": "Social",
+      "type": "app",
+      "version": "2.25.1",
+      "size": "58 MB",
+      "download_link": "https://example.com/whatsapp.apk"
+    }
   ]
 }
