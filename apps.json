@@ -1,34 +1,22 @@
 {
   "apps": [
     {
-      "id": 1763627233047,
-      "title": "Free Fire Max",
-      "icon": "https://example.com/icons/ff.png",
-      "screenshots": [
-        "https://example.com/ff1.jpg"
-      ],
-      "description": "Best battle royale game",
-      "category": "Action",
-      "type": "game",
-      "version": "2.104.1",
-      "size": "1.2 GB",
-      "download_link": "https://example.com/ffmax.apk",
-      "featured": true
-    },
-    {
-      "id": 1763627928147,
-      "title": "sexy mal",
-      "icon": "https://i.postimg.cc/PrzwDDRJ/1763586305037.jpg",
-      "screenshots": [
-        "https://i.postimg.cc/15H8XQ8f/Messenger-creation-C5E00EA7-786D-465D-9473-87BC568BEC7F.jpg\nhttps://i.postimg.cc/15H8XQ8f/Messenger-creation-C5E00EA7-786D-465D-9473-87BC568BEC7F.jpg\nhttps://i.postimg.cc/15H8XQ8f/Messenger-creation-C5E00EA7-786D-465D-9473-87BC568BEC7F.jpg"
-      ],
-      "description": "Sale mal",
-      "category": "Game",
-      "type": "game",
-      "version": "",
-      "size": "00kb",
-      "download_link": "",
+      "id": 1,
+      "title": "WhatsApp GB",
+      "icon": "https://i.ibb.co/abc/icon.png",
+      "screenshots": ["https://i.ibb.co/ss1.jpg"],
+      "description": "Best modded WhatsApp",
+      "category": "Social",
+      "type": "app",
+      "version": "2.25",
+      "size": "58 MB",
+      "download_link": "https://example.com/whatsapp.apk",
       "featured": true
     }
+  ],
+  "slider_images": [
+    "https://i.ibb.co.com/9bYvJ8Q/slider1.jpg",
+    "https://i.ibb.co.com/5kxR3vP/slider2.jpg",
+    "https://i.ibb.co.com/8dL2mN3/slider3.jpg"
   ]
 }
