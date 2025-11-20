@@ -1,33 +1,3 @@
 {
-  "apps": [
-    {
-      "id": 1,
-      "title": "WhatsApp Pro",
-      "icon": "https://example.com/icons/whatsapp.png",
-      "screenshots": [
-        "https://example.com/ss1.jpg",
-        "https://example.com/ss2.jpg"
-      ],
-      "description": "Fast, simple, secure messaging app",
-      "category": "Social",
-      "type": "app",
-      "version": "2.25.1",
-      "size": "45 MB",
-      "download_link": "https://example.com/whatsapp.apk",
-      "featured": true
-    },
-    {
-      "id": 2,
-      "title": "Free Fire Max",
-      "icon": "https://example.com/icons/ff.png",
-      "screenshots": ["https://example.com/ff1.jpg"],
-      "description": "Best battle royale game",
-      "category": "Action",
-      "type": "game",
-      "version": "2.104.1",
-      "size": "1.2 GB",
-      "download_link": "https://example.com/ffmax.apk",
-      "featured": true
-    }
-  ]
+  "apps": []
 }
